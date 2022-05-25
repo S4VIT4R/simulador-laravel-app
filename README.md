@@ -12,8 +12,8 @@ Este proyecto fue propuesto por el docente de la materia de taller de programaci
 <b>1. El sistema cuenta con un inicio de sesión y una interfaz de registro</b>
 <br>
 <b>2. En el sistema se pueden dar de alta 2 tipos de usuarios:</b>
-<br>
-2.1 Alumno
-<br>
-2.2 Docente
+    <br>
+    2.1 Alumno
+    <br>
+    2.2 Docente
 
