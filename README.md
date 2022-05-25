@@ -13,7 +13,7 @@ Este proyecto fue propuesto por el docente de la materia de taller de programaci
 <br>
 <b>2. En el sistema se pueden dar de alta 2 tipos de usuarios:</b>
     <br>
-<p>     2.1 Alumno </p>
+<p margin-left="10px">2.1 Alumno </p>
     <br>
 <p>     2.2 Docente</p>
 
