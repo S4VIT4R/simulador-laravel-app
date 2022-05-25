@@ -7,4 +7,10 @@
 
 ## About this project
 
+Este proyecto fue propuesto por el docente de la materia de taller de programación web, para evaluación misma de la materia, consiste en crear un sistema que sea capaz de realizar un simulador de exámenes, con las siguientes características:
+
+<b>1. El sistema cuenta con un inicio de sesión y una interfaz de registro</b>
+<b>2. En el sistema se pueden dar de alta 2 tipos de usuarios</b>
+    2.1 Alumno
+    2.2 Docente
 
