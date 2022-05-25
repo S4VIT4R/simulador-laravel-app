@@ -14,7 +14,6 @@ Este proyecto fue propuesto por el docente de la materia de taller de programaci
 <b>2. En el sistema se pueden dar de alta 2 tipos de usuarios:</b>
 - 2.1 Alumno
 - 2.2 Docente
-<br>
 <b>3. El docente tendrá su Home Docente</b>
 <br>
 <b>4. El sistema podrá dejar al docente dar de alta exámenes, preguntas, además que el docente podrá eliminar sus exámenes o editarlos, de tal forma que puede agregar más preguntas una vez creado el examen, así mismo editar preguntas o eliminarlas, así mismo al docente solo le deben aparecer los exámenes creados por él.</b>
