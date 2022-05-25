@@ -21,7 +21,7 @@ Este proyecto fue propuesto por el docente de la materia de taller de programaci
 <br>
 <b>4. El alumno tendrá su Home Alumno</b>
 <br>
-<b>5. El alumno podrá tendrá una vista dónde podrá ver los exámenes disponibles para poder contestarlos</b>
+<b>5. El alumno tendrá una vista dónde podrá ver los exámenes disponibles para poder contestarlos</b>
 <br>
 <b>6. El sistema solo presentará un total de 5 preguntas por cada examen al alumno</b>
 <br>
